@@ -46,9 +46,8 @@ ensure that if your code runs at all, it will be run with all the required
 values initialized, because they have to be called in the order you declare
 them.
 
-You can read about state machines and their advantages for Python programmers
-in considerably more detail
-[in this excellent series of articles from ClusterHQ](https://clusterhq.com/blog/what-is-a-state-machine/).
+You can read about state machines and their advantages for Python programmers 
+[in an excellent article by J.P. Calderone](http://archive.is/oWpiI).
 
 ### What makes Automat different? ###
 
